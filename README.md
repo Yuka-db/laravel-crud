@@ -1,5 +1,21 @@
 ## Simple CRUD Blog Post for Learning Puspose Only
 
+Created Using Laravel v8
+
+## How to Use
+1. Clone this repository
+2. Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
+3. Run the following code: 
+- php artisan key:generate
+- php artisan migrate
+- php artisan serve
+
+Thanks to:
+QadrLabs
+
+Read more:
+https://qadrlabs.com/post/belajar-laravel-8-membuat-aplikasi-crud-sederhana
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
